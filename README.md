@@ -22,7 +22,7 @@
 
 * 邮件(jondai@aliyun.com)
 * QQ: 1039895299
-* 个人网站：jondai.cn
+* 个人网站：http://www.jondai.cn
 
 ##关于作者
 
