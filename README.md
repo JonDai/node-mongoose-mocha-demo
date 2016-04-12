@@ -10,6 +10,7 @@
 ##概述
 ####**连接数据库**
     db/database.js 是连接mongodb的文件,引入文件即执行连接数据库.
+
 ####**创建Model**
     model/user.js
     * 定义了user的描述文件, Schema描述了文本属性，可在此添加属性或者继承方法
