@@ -1,6 +1,7 @@
 /**
  * Created by JonDai on 2016/4/12.
  */
+
 var mongoose = require('mongoose');
 
 //定义一个Schema的文本属性
